@@ -1,9 +1,11 @@
-# Yandex SmartCaptcha PHP SDK
+# Yandex SmartCaptcha PHP
+
+![Yandex SmartCaptcha PHP](https://github.com/user-attachments/assets/ebcc5fd5-5000-455c-a155-212f368efc37)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-blue)](https://www.php.net/)
 
-PHP SDK для [Yandex SmartCaptcha](https://yandex.cloud/ru/services/smartcaptcha) с полной поддержкой Laravel.
+PHP для [Yandex SmartCaptcha](https://yandex.cloud/ru/services/smartcaptcha) с полной поддержкой Laravel.
 
 [English version](README.md)
 
